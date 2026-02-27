@@ -9,13 +9,13 @@ This file documents the SQL statements in `EXP.sql`, describing the schema, samp
 - **Create the database**
 
   ```sql
-  CREATE DATABASE 2cse21_0604;
+  CREATE DATABASE 2cse21_0675;
   ```
 
 - **Select the database**
 
   ```sql
-  USE 2cse20_0396;
+  USE 2cse20_0675;
   ```
 
 - **Create table `DEPARTMENT`**
